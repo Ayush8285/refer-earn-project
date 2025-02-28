@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Ayush8285/Accredian-backend-task.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Ayush8285/Accredian-frontend-task.git
